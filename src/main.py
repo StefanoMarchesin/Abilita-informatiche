@@ -72,3 +72,30 @@ print()
 
 d = {'nome': 'Mario', 'cognome': 'Rossi'}
 print(d['nome'])
+
+print()
+#cicli
+
+num = 42
+x = input('scegli un numero da 1 a 100 ')
+if int(x) == num:
+  print('hai vinto')
+else:
+  print('riprova sarai più fortunato')
+
+k = []
+for i in range(0, 10):
+  k.append(i)
+
+print(k)
+
+s = 0
+j = True
+i = 1
+while j:
+  s = s + 1/i
+  if s > 10:
+    break
+  i+=1
+  
+print(i)
