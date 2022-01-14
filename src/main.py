@@ -2,6 +2,7 @@ import sys
 import math
 import cmath
 import time
+import numpy as np
 
 print("pi =", math.pi)
 
@@ -99,3 +100,5 @@ while j:
   i+=1
   
 print(i)
+
+
