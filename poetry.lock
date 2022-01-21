@@ -1,0 +1,17 @@
+[[package]]
+name = "linalg"
+version = "1.0.4"
+description = "A simple linear algebra package written in vanilla python3"
+category = "main"
+optional = false
+python-versions = ">=3.6.0"
+
+[metadata]
+lock-version = "1.1"
+python-versions = "^3.8"
+content-hash = "8ee9ec5812fa42c8b2f6c9e050247f5b9e4e536a2b915a5b19a58e954e2546bd"
+
+[metadata.files]
+linalg = [
+    {file = "linalg-1.0.4.tar.gz", hash = "sha256:9a7c7e477e146b3d1d4651171346e4eda6f359b10a36ab1e176fa5aa9967305f"},
+]
